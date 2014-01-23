@@ -1,0 +1,2 @@
+DATABASE PASSWORD: libsys
+ODBC Connection name: LibrarySystem
